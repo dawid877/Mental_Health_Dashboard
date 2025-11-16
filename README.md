@@ -20,3 +20,13 @@ The dashboard provides insights into:
 - **Geographical scope:** Poland (national and regional level)  
 - **Time range:** **2017–2024**
 
+---
+
+## 📂 Project Structure
+
+The project is structured as follows:
+
+- `Data_wrangling.ipynb` – Loads the raw dataset and performs cleaning and transformation.
+- `EDA_Feature_Engineering.ipynb` – Explores the data visually and statistically, and creates new features to improve model performance.
+- `Testset_featureeng.ipynb` – Applies the same feature engineering steps to the test dataset to ensure consistency and prevent data leakage.
+- `Model_specification.ipynb` – Trains various regression models, evaluates their performance, and compares results using different metrics.
