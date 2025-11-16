@@ -22,11 +22,10 @@ The dashboard provides insights into:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 The project is structured as follows:
 
-- `Data_wrangling.ipynb` – Loads the raw dataset and performs cleaning and transformation.
-- `EDA_Feature_Engineering.ipynb` – Explores the data visually and statistically, and creates new features to improve model performance.
-- `Testset_featureeng.ipynb` – Applies the same feature engineering steps to the test dataset to ensure consistency and prevent data leakage.
-- `Model_specification.ipynb` – Trains various regression models, evaluates their performance, and compares results using different metrics.
+- `Mental_health_project.pbix` – The full Power BI dashboard (downloadable and fully interactive)
+- `Screenshots of the dashboard/` – Folder containing screenshots of each report page, including the drill-down views
+
